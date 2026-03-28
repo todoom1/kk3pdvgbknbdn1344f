@@ -7,6 +7,8 @@ document.getElementById("xsd").addEventListener("click", function() {window.open
 document.getElementById("t1").addEventListener("click", function() {window.open(atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTUyNzQxOQ"), '_blank'); });
 document.getElementById("cf").addEventListener("click", function() {window.open(atob("aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnRvcElkPTIyOTg0"), '_blank'); });
 
+//https://izcvoj.hfjcl.com/app/register.php?site_id=1021&topId=6321764306321984
+
 document.getElementById("jln").innerHTML = ("君临国际");
 document.getElementById("stn").innerHTML = ("胜天国际");
 document.getElementById("ztn").innerHTML = ("征途国际");
