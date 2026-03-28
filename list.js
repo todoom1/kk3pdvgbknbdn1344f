@@ -7,7 +7,7 @@ document.getElementById("xsd").addEventListener("click", function() {window.open
 document.getElementById("t1").addEventListener("click", function() {window.open(atob("aHR0cHM6Ly9sbmNxYy5qZ3F2amkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDUxJnRvcElkPTUyNzQxOQ"), '_blank'); });
 document.getElementById("cf").addEventListener("click", function() {window.open(atob("aHR0cHM6Ly9wa2FqaW0uaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDMyJnRvcElkPTIyOTg0"), '_blank'); });
 document.getElementById("dd28").addEventListener("click", function() {window.open(atob("aHR0cHM6Ly9pemN2b2ouaGZqY2wuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDIxJnRvcElkPTYzMjE3NjQzMDYzMjE5ODQ"), '_blank'); });
-
+//https://pwrue.tprsmi.com/app/register.php?site_id=1019&topId=3891489
 document.getElementById("dd28n").innerHTML = ("多多28");
 document.getElementById("jln").innerHTML = ("君临国际");
 document.getElementById("stn").innerHTML = ("胜天国际");
