@@ -1,6 +1,6 @@
 (function() {
     var secretApps = [
-{img: './png/xjh.jpg', name: '馨聚汇', xurl: 'aHR0cHM6Ly95Ymt2YnoudGNrcXh4LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA2NiZ0b3BJZD0zMDczMCZzZWxmUGxhbklkPTg3ODU='},
+{img: './png/xjh.jpg', name: '聚鑫汇', xurl: 'aHR0cHM6Ly95Ymt2YnoudGNrcXh4LmNvbS9hcHAvcmVnaXN0ZXIucGhwP3NpdGVfaWQ9MTA2NiZ0b3BJZD0zMDczMCZzZWxmUGxhbklkPTg3ODU='},
 {img: './png/dgl.jpg', name: '戴高乐', xurl: 'aHR0cHM6Ly9oYmZmYnIuaGNqd2ouY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0yMDkxJnRvcElkPTQzMTM1NA=='},
 {img: './png/stgj.jpg', name: '胜天国际', xurl: 'aHR0cHM6Ly9sZWp2YS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDU4JnRvcElkPTMwOTg3JnNlbGZQbGFuSWQ9MTE0NzE'},
 {img: './png/hygj.jpg', name: '汇赢国际', xurl: 'aHR0cHM6Ly9uY2djYS50cHJzbWkuY29tL2FwcC9yZWdpc3Rlci5waHA/c2l0ZV9pZD0xMDYyJnRvcElkPTY1MTg5JnNlbGZQbGFuSWQ9MTg0NjAwOA=='},
